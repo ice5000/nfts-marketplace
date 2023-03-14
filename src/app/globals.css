@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn.btn-outline-primary {
+  color: #feb019;
+  color: var(--primary-color);
+  border-color: #feb019;
+  border-color: var(--primary-color);
+}
